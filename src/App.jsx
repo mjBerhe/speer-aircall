@@ -7,6 +7,7 @@ const App = () => {
   return (
     <div className='container'>
       <Header/>
+      <div>Test</div>
       <div className="container-view">Some activities should be here</div>
     </div>
   );
